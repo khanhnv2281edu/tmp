@@ -6,5 +6,6 @@ int main(){
 	cout<<res;//branch master
 
 	//new edit
+	//new edit2 from branch B
 	return 0;
 }
