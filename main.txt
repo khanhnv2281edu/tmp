@@ -4,5 +4,7 @@ int main(){
 	int x=2,y=5;
 	int res=x+y;//branch B
 	cout<<res;//branch master
+
+	//new edit
 	return 0;
 }
