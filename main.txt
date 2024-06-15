@@ -4,10 +4,11 @@ int main(){
 	int x=2,y=5;
 	int res=x+y;//branch B
 	cout<<res;//branch master
-
+  
 	//new edit
-	int z=3;
+  int z=3;
 	int res2=z+x;
 	court<<res2;
+  //new edit2 from branch B
 	return 0;
 }
