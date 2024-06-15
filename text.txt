@@ -2,5 +2,6 @@ hello
 xin chao
 toi la khanh
 macbook
+dong 1
 dong 2
 dong 3
