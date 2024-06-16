@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+int gcd(){}
 int main(){
 	int x=2,y=5;
 	int res=x+y;//branch B
